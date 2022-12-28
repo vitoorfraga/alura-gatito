@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "alura-gatito-static",
-    "slug": "alura-gatito-static",
+    "name": "Gatito",
+    "slug": "gatito",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#A050BE"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
